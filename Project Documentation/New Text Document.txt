@@ -1,0 +1,17 @@
+Build E-Commerce Website in asp.net core mvc:
+
+E-commerce is online shopping store for selling/buying products. We'll use asp.net core mvc framework to build a complete E-commerce website and also use Entity Framework and Identity Framework. If you've good understanding & experience in c# & mssql then this course is for you. Asp.Net Core has made the process utterly simple because Asp.Net Core is based on the MVC concept which makes your code clean,easy to use & debug. Moreover, Asp.Net Core provides many features that would be hard to create by just using another framework alone. For example, user authentication, pagination, password hashing, sharing data with all pages & restricting access to pages. Finally, learning a commonly used framework like Asp.net core Mvc will put your feet at the door of any potential employer & you'll be desired to be hired by many companies.
+Some Of What you will learn in Build E-Commerce Website in Asp.Net Core :
+1. Create New Project
+2. Creating Models,Controllers & Views
+3. Learning bootstrap
+4. Incorporate alertify
+5. Creating Shopping Cart
+6. Creating Admin Panel for E-Commerce
+7. Uploading New Products & Images
+7. Middlewares & restricting Access To Admins
+8. Adding Pagination to E-Commerce Website
+9. Searching for Specific Products
+10. Adding Admin control panel for products & order
+
+
